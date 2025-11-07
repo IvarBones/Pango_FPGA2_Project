@@ -1,0 +1,58 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dG:/pango_prj/a_b_success/project/pango_sim_libraries
+vMtKEqZtcS8c4C67bRuXZVw==
+Z0 !s110 1762011681
+!i10b 0
+!s100 aR8Y0Ki92Y]=RSR^4E8GG2
+IVSTX[A2a0EcUmoi9=A?o13
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+!i119 1
+!i8a 873184640
+Z2 dG:/pango/PDS_2022.2-SP6.4/arch/vendor/pango/verilog/simulation/modelsim10.2c
+Z3 w1762011681
+8./oserdes_e1_source_codes/int_oserdes_e1.vp
+F./oserdes_e1_source_codes/int_oserdes_e1.vp
+Z4 L0 23
+Z5 OL;L;10.6e;65
+r1
+!s85 0
+31
+Z6 !s108 1762011681.000000
+!s107 ./oserdes_e1_source_codes/int_oserdes_e1.vp|./oserdes_e1_source_codes/int_oserdes_e1_7km.vp|
+Z7 !s90 -incr|-f|./filelist_oserdes_e1_gtp.f|-work|oserdes_e1|
+!i113 0
+Z8 o-work oserdes_e1 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z9 tCvgOpt 0
+nd0afb41
+vDQh2BdrzPZXdRvirCqLliPuRu/pWEUDVxpvm3oNOXl8=
+R0
+!i10b 0
+!s100 Uz3d<30Ghh4GE7<M`GXP41
+IO6PUhU0M`AU0DA75TS3Vf3
+R1
+!i119 1
+!i8a 641569504
+R2
+R3
+8./oserdes_e1_source_codes/int_oserdes_e1_7km.vp
+F./oserdes_e1_source_codes/int_oserdes_e1_7km.vp
+R4
+R5
+r1
+!s85 0
+31
+R6
+Z10 !s107 ./oserdes_e1_source_codes/int_oserdes_e1.vp|./oserdes_e1_source_codes/int_oserdes_e1_7km.vp|
+R7
+!i113 0
+R8
+R9
+nb4c28ed
