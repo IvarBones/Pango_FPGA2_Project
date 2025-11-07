@@ -1,3 +1,1 @@
-sim_prj->仿真工程
-matlab->matlab文件
-source->rtl代码
+全国大学生FPGA创新设计竞赛——紫光赛道2 项目
